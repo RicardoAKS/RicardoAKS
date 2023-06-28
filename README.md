@@ -6,8 +6,6 @@
   
 </div>
 
-<hr>
-
 <div align="center">
 
 ## My Technologies
