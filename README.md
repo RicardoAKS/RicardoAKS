@@ -24,6 +24,8 @@
 ![PHP](https://img.shields.io/badge/PHP-c590e7?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-c590e7?style=for-the-badge&logo=mysql&logoColor=white)
 
+<hr width="50%">
+
 ![Expo](https://img.shields.io/badge/Expo-c590e7?style=for-the-badge&logo=expo&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-c590e7?style=for-the-badge&logo=ionic&logoColor=white)
 
