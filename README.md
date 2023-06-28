@@ -25,6 +25,7 @@
 <hr width="50%">
 
 ![Expo](https://img.shields.io/badge/Expo-ecedee?style=for-the-badge&logo=expo&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-00d1f7?style=for-the-badge&logo=react&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-176bff?style=for-the-badge&logo=ionic&logoColor=white)
 
 <hr>
