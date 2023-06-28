@@ -19,6 +19,7 @@
 
 <hr width="50%">
 
+![C#](https://img.shields.io/badge/C%23-964d92?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-697ab1?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005a85?style=for-the-badge&logo=mysql&logoColor=white)
 
