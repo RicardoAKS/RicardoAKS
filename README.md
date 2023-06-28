@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/PHP-697ab1?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005a85?style=for-the-badge&logo=mysql&logoColor=white)
 
-<hr width="50%" color="#5ba4e5" style="border-color: #fff;">
+<hr width="50%">
 
 ![Expo](https://img.shields.io/badge/Expo-ecedee?style=for-the-badge&logo=expo&logoColor=black)
 ![Ionic](https://img.shields.io/badge/Ionic-176bff?style=for-the-badge&logo=ionic&logoColor=white)
