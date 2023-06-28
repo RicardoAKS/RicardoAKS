@@ -21,6 +21,8 @@
 ![CSS](https://img.shields.io/badge/CSS-c590e7?&style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-c590e7?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Expo](https://img.shields.io/badge/Expo-c590e7?style=for-the-badge&logo=expo&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=nightowl)
