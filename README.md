@@ -50,7 +50,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Snake animation](https://github.com/RicardoAKS/RicardoAKS/blob/main/github-user-contribution.svg)
 <img src="https://github.com/RicardoAKS/RicardoAKS/blob/main/github-user-contribution.svg" width="1920" height=""></img>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
