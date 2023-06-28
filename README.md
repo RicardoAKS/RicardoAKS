@@ -25,7 +25,7 @@
 
 <hr width="50%">
 
-![Expo](https://img.shields.io/badge/Expo-ecedee?style=for-the-badge&logo=expo&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-ecedee?style=for-the-badge&logo=expo&logoColor=black)
 ![Ionic](https://img.shields.io/badge/Ionic-176bff?style=for-the-badge&logo=ionic&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
