@@ -31,7 +31,6 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=nightowl)
 
 ![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
