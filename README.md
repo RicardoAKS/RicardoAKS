@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## My Technologies
+### My Technologies
 
 <br>
 
