@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Snake animation]([https://github.com/RicardoAKS/RicardoAKS/blob/main/github-user-contribution%20(1).svg])
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
