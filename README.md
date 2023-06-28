@@ -6,9 +6,9 @@
   
 ![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=midnight-red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=shadow_red)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=shadow_red)
 
 </div>
 
