@@ -1,7 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <div align="center">
   
-  ## Hello, I'm RicardoAKS
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+RicardoAKS)](https://git.io/typing-svg)
   
 </div>
 
