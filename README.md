@@ -1,6 +1,6 @@
 ### Hello, I`m RicardoAKS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=transparent)
 
