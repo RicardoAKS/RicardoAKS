@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-c590e7?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Expo](https://img.shields.io/badge/Expo-c590e7?style=for-the-badge&logo=expo&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-c590e7?style=for-the-badge&logo=ionic&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
 
