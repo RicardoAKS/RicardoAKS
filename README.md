@@ -30,8 +30,12 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=nightowl)
+<div justify="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=nightowl)
+
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
 
