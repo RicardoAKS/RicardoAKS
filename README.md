@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header" />
 <div align="center">
 
   <br>
