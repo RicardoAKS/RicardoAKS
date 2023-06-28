@@ -3,8 +3,6 @@
   Hello, I'm RicardoAKS
 </p>
 
-<hr>
-
 <div align="center">
   
 ![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
