@@ -1,4 +1,7 @@
+![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+
 ### Hello, I`m RicardoAKS
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS)
 
