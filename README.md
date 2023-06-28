@@ -13,13 +13,13 @@
 
 ## My Technologies
 
-![HTML](https://img.shields.io/badge/HTML-7f3ace?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7f3ace?style=for-the-badge&logo=php&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-7f3ace?style=for-the-badge&logo=jquery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7f3ace?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-c590e7?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-c590e7?style=for-the-badge&logo=php&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-c590e7?style=for-the-badge&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-c590e7?style=for-the-badge&logo=javascript&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS-7f3ace?&style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7f3ace?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-c590e7?&style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-c590e7?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS&theme=nightowl)
 
