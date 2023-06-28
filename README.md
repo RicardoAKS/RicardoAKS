@@ -3,7 +3,9 @@
   ### Hello, I`m RicardoAKS
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS)
 
