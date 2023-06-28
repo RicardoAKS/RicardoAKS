@@ -18,24 +18,28 @@
 
 ![CSS](https://img.shields.io/badge/CSS-0068ba?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <hr width="50%">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Jquery](https://img.shields.io/badge/jQuery-20aae0?style=for-the-badge&logo=jquery&logoColor=white)
 
 <hr width="50%">
 
 ![C#](https://img.shields.io/badge/C%23-964d92?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-697ab1?style=for-the-badge&logo=php&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-005a85?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr width="50%">
 
 ![Expo](https://img.shields.io/badge/Expo-ecedee?style=for-the-badge&logo=expo&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-00d1f7?style=for-the-badge&logo=react&logoColor=white)
+
 ![Ionic](https://img.shields.io/badge/Ionic-176bff?style=for-the-badge&logo=ionic&logoColor=white)
 
 <hr>
