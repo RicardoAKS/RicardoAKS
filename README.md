@@ -2,12 +2,15 @@
 <p align="center">
   ### Hello, I`m RicardoAKS
 </p>
-
+<div align="center">
+  
 ![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoAKS)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoAKS&show_icons=true&theme=transparent)
+
+</div>
 
 <!--
 **RicardoAKS/RicardoAKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
