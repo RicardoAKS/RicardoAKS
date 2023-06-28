@@ -1,5 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-### Hello, I`m RicardoAKS
+<p align="center">
+  ### Hello, I`m RicardoAKS
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
 
