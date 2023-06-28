@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" />
 
 <div align="center">
-
-  <br>
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250&lines=Hello%2C+I'm+RicardoAKS)
   
