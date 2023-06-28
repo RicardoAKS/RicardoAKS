@@ -13,11 +13,10 @@
 
 ## My Technologies
 
-![HTML](https://img.shields.io/badge/HTML-c590e7?style=for-the-badge&logo=html5&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-c590e7?style=for-the-badge&logo=jquery&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-c590e7?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-c590e7?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-c590e7?&style=for-the-badge&logo=css3&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-c590e7?style=for-the-badge&logo=jquery&logoColor=white)
 
 <hr width="50%">
 
