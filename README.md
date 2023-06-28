@@ -5,11 +5,9 @@
   
 </div>
 
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
-
 <hr>
+
+<div align="center">
 
 ## My Technologies
 
@@ -48,6 +46,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/ricardoAKS/count.svg)
 
 ![Snake animation](https://github.com/RicardoAKS/RicardoAKS/blob/main/github-user-contribution.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
