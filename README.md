@@ -10,6 +10,8 @@
 
 ## My Technologies
 
+<br>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-de4b25?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0068ba?&style=for-the-badge&logo=css3&logoColor=white)
