@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250&lines=Hello%2C+I'm+RicardoAKS)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BA4E5&width=435&lines=Hello%2C+I'm+RicardoAKS;Web+Developer+Full+Stack+)](https://git.io/typing-svg)
   
 </div>
 
@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/PHP-697ab1?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005a85?style=for-the-badge&logo=mysql&logoColor=white)
 
-<hr width="50%">
+<hr width="50%" color="#5ba4e5">
 
 ![Expo](https://img.shields.io/badge/Expo-ecedee?style=for-the-badge&logo=expo&logoColor=black)
 ![Ionic](https://img.shields.io/badge/Ionic-176bff?style=for-the-badge&logo=ionic&logoColor=white)
